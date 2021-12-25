@@ -1,3 +1,4 @@
 1##sigmakey https://www.gsmarena.com/##1
 1##z3x https://www.gsmarena.com/huawei_y9_prime_(2019)-9742.php##1
-1##octoplus https://social.msdn.microsoft.com/Forums/en-US/7d156d49-ea9a-4f58-a17f-228c9470ee7a/display-a-message-box-in-a-vbnet-web-application?forum=vblanguage ##1
+1##octoplus https://social.msdn.microsoft.com/Forums/en-US/7 ##1
+1## nck http://google.com##1
