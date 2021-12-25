@@ -2,3 +2,5 @@ Leth
 Angel
 Mikah
 Giahn
+aaaa	view-source:https://phonatech.github.io/a.txt
+bbb	https://www.youtube.com/results?search_query=github+host+public+html
